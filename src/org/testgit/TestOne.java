@@ -12,6 +12,11 @@ public void empName() {
 		System.out.println("8939278836");
 	}
 	
+	private void empBike() {
+		
+		System.out.println("jawa");
+	}
+	
 		
 public static void main(String[] args) {
 		
